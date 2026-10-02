@@ -27,12 +27,7 @@ other services that may not fit the couple's preferences
 ## Project Plan (5 Weeks)
 
 ###  Week 1 — [the idea]
-- Weddy is an all-in-one mobile application designed to help couples plan and prepare for an Islamic
-wedding from one place. The application connects couples with suitable wedding-service providers while
-helping them plan, compare, book, save money, and manage their wedding budget. The main difference is
-its focus on Islamic-friendly wedding services and celebrations, including options that avoid music and
-other services that may not fit the couple's preferences
-
+- https://drive.google.com/drive/folders/1DRnKtTl1MttezqJ0qGlUpXPVsLqdOVyV?usp=drive_link
 
 ### Week 2 — [interviews and survey]
 - [[Task] ](https://drive.google.com/drive/folders/1kjKEKkIr-1H_swOMXwIeZs-76NKvmDFL?usp=sharing) 
