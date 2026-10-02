@@ -1,7 +1,11 @@
 # ui-ux-802-team-4 ( weddy)
-team members 
-saja wael mosa (Leadr)
-mohamed ahmed esamil
-eman mahmoud salim
-arwa gamal
-shahd omar ahmed
+```markdown
+## Team Members
+
+- Saja Wael Mosa — Leader
+- Mohamed Ahmed Esamil
+- Eman Mahmoud Salim
+- Arwa Gamal
+- Shahd Omar Ahmed
+```
+
